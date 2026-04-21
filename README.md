@@ -104,7 +104,7 @@ Power BI Report
 ## 👤 Author
 
 **Saeed**
-📧 Connect on [www.linkedin.com/in/elsaeed-khairy-813a6b239
+📧 Connect on Linkedin -> [www.linkedin.com/in/elsaeed-khairy-813a6b239
 
 ](#) | 💼 [GitHub](#)
 
