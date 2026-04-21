@@ -107,10 +107,10 @@ Power BI Report
 📧 Connect on [LinkedIn](#) | 💼 [GitHub](#)
 
 ---
-## Dashboard Preview
+## 📊 Dashboard Preview
 
-![Dashboard 1](Images/1.png)
-![Dashboard 2](Images/2.png)
-![Dashboard 3](Images/3.png)
-![Dashboard 4](Images/4.png)
+![Dashboard 1](images/dashboard1.png)
+![Dashboard 2](images/dashboard2.png)
+![Dashboard 3](images/dashboard3.png)
+![Dashboard 4](images/dashboard4.png)
 > *Built with Excel Power Query + Power BI | Data Cleaning · Modeling · Visualization*
