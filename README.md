@@ -110,10 +110,17 @@ Power BI Report
 
 ---
 ## 📊 Dashboard Preview
-<img width="1310" height="727" alt="dashboard1" src="https://github.com/user-attachments/assets/552b7c54-a9d7-4bbb-9323-046972b2a3dd" />
-<img width="1302" height="730" alt="dashboard2" src="https://github.com/user-attachments/assets/c86e7d00-034c-4b32-a583-f8f696dfee45" />
-<img width="1310" height="726" alt="dashboard3" src="https://github.com/user-attachments/assets/e5f5db8f-b199-4b74-b259-d4044647c892" />
-<img width="1308" height="728" alt="dashboard4" src="https://github.com/user-attachments/assets/901e72c8-4c61-43d8-9b5c-e48c713620d3" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/552b7c54-a9d7-4bbb-9323-046972b2a3dd" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/c86e7d00-034c-4b32-a583-f8f696dfee45" width="45%" />
+</p>
 
+<br>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e5f5db8f-b199-4b74-b259-d4044647c892" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/901e72c8-4c61-43d8-9b5c-e48c713620d3" width="45%" />
+</p>
 > *Built with Excel Power Query + Power BI | Data Cleaning · Modeling · Visualization*
