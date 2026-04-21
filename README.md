@@ -102,11 +102,8 @@ Power BI Report
 ---
 
 ## 👤 Author
-
-**Saeed**
-📧 Connect on **Saeed**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/elsaeed-khairy-813a6b239)(#) | 💼 [GitHub](#)
-
+**Saeed**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/elsaeed-khairy-813a6b239) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/elsaeedkhairy)
 ---
 ## 📊 Dashboard Preview
 <p align="center">
